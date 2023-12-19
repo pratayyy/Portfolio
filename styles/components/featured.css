@@ -1,6 +1,6 @@
 .featured__subtitle {
   font-size: var(--size-sm);
-  color: var(--clr-indigo);
+  color: var(--color-indigo);
   text-transform: capitalize;
   font-weight: 400;
 }
@@ -13,7 +13,7 @@
 
 .featured__title {
   font-size: var(--size-2xl);
-  color: var(--clr-light);
+  color: var(--color-light);
   text-transform: uppercase;
 }
 
@@ -24,7 +24,7 @@
 
 .featured__description {
   max-width: 60ch;
-  color: var(--clr-slate600);
+  color: var(--color-slate600);
   font-size: var(--size-sm);
   margin: 1rem 0;
 }
@@ -53,7 +53,7 @@
 
 .featured__info {
   font-size: var(--size-sm);
-  color: var(--clr-slate600);
+  color: var(--color-slate600);
   text-transform: capitalize;
 }
 
